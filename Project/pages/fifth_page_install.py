@@ -1,4 +1,3 @@
-from Project.locators.locators import Locators
 from Project.pages.fourth_page_my_game import Game
 import os.path
 
@@ -6,7 +5,7 @@ import os.path
 class Install(Game):
     def __init__(self, driver: object):
         super().__init__(driver)
-        self.stem_install_click = Locators.stem_install_click
+        self.stem_install_click: str = "//a[@class='about_install_steam_link']"
         self.file_path = str
 
     def click_install_again(self):
@@ -17,6 +16,6 @@ class Install(Game):
         while True:
             x = os.path.isfile(self.file_path)
             if x:
-                print("file there")
+                print("steam file is in the folder")
                 break
 

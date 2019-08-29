@@ -20,8 +20,8 @@ class BrowserFactory:
                                    "application/msword, application/csv, application/ris, text/csv, image/png, "
                                    "application/pdf, text/html, text/plain, application/zip, application/x-zip, "
                                    "application/x-zip-compressed, application/download, application/octet-stream")
+
             BrowserFactory.driver = webdriver.Firefox(executable_path=GeckoDriverManager().install(), options=options)
-            BrowserFactory.driver.implicitly_wait(2)
             BrowserFactory.driver.maximize_window()
         elif browser_name == "chrome" or browser_name == "Chrome":
             options = webdriver.ChromeOptions()
@@ -31,7 +31,6 @@ class BrowserFactory:
                            "intl.accept_languages": "ru"}
             options.add_experimental_option("prefs", preferences)
             BrowserFactory.driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
-            BrowserFactory.driver.implicitly_wait(2)
             BrowserFactory.driver.maximize_window()
 
         return BrowserFactory.driver

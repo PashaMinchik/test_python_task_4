@@ -1,4 +1,5 @@
 
+
 class GamesPage:
 
     def __init__(self, driver):
@@ -19,11 +20,11 @@ class GamesPage:
         for link in self.driver.find_elements_by_xpath(self.game_discount):
             self.all_trails.append(link.get_attribute("innerText"))
 
-        print(self.all_trails)
+        print("Список игр со скидками: ", self.all_trails)
         self.max_discount = max(self.all_trails)
         print("Максимальная скидка: " + self.max_discount)
 
-    def get_info_game(self) -> object:
+    def get_info_game(self) -> str:
         self.game_info = self.driver.find_element_by_xpath(self.game_final_prise % self.max_discount).get_attribute("innerText")
         print("Информация об игре из списка: " + self.game_info)
         return self.game_info

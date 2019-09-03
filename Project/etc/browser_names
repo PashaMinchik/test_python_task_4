@@ -1,0 +1,4 @@
+{
+  "For chrome": ["chrome", "Chrome"],
+  "For firefox": ["ff", "firefox", "Firefox"]
+}

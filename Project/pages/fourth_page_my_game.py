@@ -16,7 +16,6 @@ class Game:
         try:
             self.x = self.driver.find_element_by_xpath(self.game1_base_discount).get_attribute("innerText")
             self.game_info1.replace(self.x, "")
-            print("Информация об выбранной игре: " + self.game_info1)
         except NoSuchElementException:
             pass
         print("Информация об выбранной игре: " + self.game_info1)

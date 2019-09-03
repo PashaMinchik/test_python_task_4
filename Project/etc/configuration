@@ -1,0 +1,6 @@
+{
+  "browser_name": "chrome",
+  "language": "ru",
+  "url": "https://store.steampowered.com/",
+  "timeout": 10
+}

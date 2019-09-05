@@ -1,8 +1,5 @@
 from selenium.common.exceptions import NoSuchElementException
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as ec
-from selenium.webdriver.common.by import By
-from selenium import webdriver
+from Project.configure.confpage import ConfPage
 
 
 class Game:
@@ -13,10 +10,10 @@ class Game:
         self.driver = driver
         self.game1_prise: str = "//div[@class='discount_final_price']"
         self.game1_discount: str = "(//div[contains(@class,'discount_pct')])[1]/.."
-        #self.game1_discount: str = "(//div[starts-with(@class,'discount_block game_purchase_discount')]//div[starts-with(@class,'discount_pct')])[1]/.."
         self.games_discount: str = "//div[@class='discount_block game_purchase_discount']//div[contains(@class,'discount_pct')]"
         self.game1_base_discount: str = "//div[@class='bundle_base_discount']"
         self.click_install_button: str = "//a[@class='header_installsteam_btn_content']"
+        self.fluent_time: ConfPage = ConfPage(driver)
 
     def get_info_game1(self):
         self.game_info1 = self.driver.find_element_by_xpath(self.game1_discount).get_attribute("innerText")
@@ -29,4 +26,4 @@ class Game:
         return self.game_info1
 
     def click_install(self):
-        self.driver.find_element_by_xpath(self.click_install_button).click()
+        self.fluent_time.get_element_with_click(self.click_install_button)

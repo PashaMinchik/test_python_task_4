@@ -1,6 +1,7 @@
 from selenium.webdriver.support.ui import Select
 from selenium.common.exceptions import NoSuchElementException
 from Project.configure.parsing import Parse
+from Project.configure.confpage import ConfPage
 
 
 class BirthTimePage:
@@ -12,6 +13,7 @@ class BirthTimePage:
         self.open_page_button_ru: str = "//span[contains (text(),'Открыть страницу')]"
         self.language: str = Parse().get_json_language()
         self.open_page_button_en: str = "//span[contains (text(),'View Page')]"
+        self.fluent_time: ConfPage = ConfPage(driver)
 
     def choose_birth_time(self):
         try:

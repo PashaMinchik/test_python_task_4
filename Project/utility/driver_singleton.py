@@ -11,6 +11,5 @@ class BrowserSingleton:
     def get_driver():
         if BrowserSingleton.driver is None:
             BrowserSingleton.driver = BrowserFactory.create_browser()
-            BrowserSingleton.driver.maximize_window()
         return BrowserSingleton.driver
 

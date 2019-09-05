@@ -1,13 +1,20 @@
 from selenium.common.exceptions import NoSuchElementException
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as ec
+from selenium.webdriver.common.by import By
+from selenium import webdriver
 
 
 class Game:
     def __init__(self, driver: object):
         self.x = str
         self.game_info1 = str
+        self.all_trails = []
         self.driver = driver
         self.game1_prise: str = "//div[@class='discount_final_price']"
-        self.game1_discount: str = "//div[contains(@class,'discount_pct')]/.."
+        self.game1_discount: str = "(//div[contains(@class,'discount_pct')])[1]/.."
+        #self.game1_discount: str = "(//div[starts-with(@class,'discount_block game_purchase_discount')]//div[starts-with(@class,'discount_pct')])[1]/.."
+        self.games_discount: str = "//div[@class='discount_block game_purchase_discount']//div[contains(@class,'discount_pct')]"
         self.game1_base_discount: str = "//div[@class='bundle_base_discount']"
         self.click_install_button: str = "//a[@class='header_installsteam_btn_content']"
 

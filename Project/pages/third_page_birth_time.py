@@ -10,7 +10,7 @@ class BirthTimePage:
         self.age_choose: str = "ageYear"
         self.select = Select
         self.open_page_button_ru: str = "//span[contains (text(),'Открыть страницу')]"
-        self.language: str = Parse.get_json_language
+        self.language: str = Parse().get_json_language()
         self.open_page_button_en: str = "//span[contains (text(),'View Page')]"
 
     def choose_birth_time(self):

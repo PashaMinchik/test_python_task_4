@@ -2,6 +2,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as ec
 from selenium.webdriver.common.by import By
 from selenium import webdriver
+from Project.configure.parsing import Parse
 
 
 class ConfPage:
@@ -9,8 +10,7 @@ class ConfPage:
 
     def __init__(self, driver):
         self.driver = driver
+        self.timeout = Parse().get_json_timeout()
 
     def get_element(self, xpath):
-        wait = WebDriverWait(self.driver, 10).until(ec.presence_of_element_located(By.XPATH(xpath)))
-        wait.click()
-        return wait
+        WebDriverWait(self.driver, self.timeout).until(ec.element_to_be_clickable(By.XPATH, xpath))

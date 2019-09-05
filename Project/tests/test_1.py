@@ -1,4 +1,5 @@
 from Project.configure.conftest import ConfTest
+import time
 
 
 class TestSteam(ConfTest):

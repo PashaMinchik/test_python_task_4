@@ -1,7 +1,5 @@
 from selenium import webdriver
 from Project.utility.driver_factory import BrowserFactory
-from selenium.webdriver.support.ui import WebDriverWait
-from Project.configure.parsing import Parse
 
 
 class BrowserSingleton:

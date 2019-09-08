@@ -1,5 +1,4 @@
 import unittest
-import pytest
 from Project.pages.fifth_page_install import Install
 from Project.pages.first_page_steam import HomePage
 from Project.pages.fourth_page_my_game import Game
@@ -23,3 +22,4 @@ class ConfTest(unittest.TestCase):
     def tearDownClass(cls):
         cls.driver.close()
         cls.driver.quit()
+

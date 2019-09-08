@@ -1,5 +1,6 @@
 from Project.configure.conftest import ConfTest
-import time
+import unittest
+import HtmlTestRunner
 
 
 class TestSteam(ConfTest):
@@ -17,10 +18,13 @@ class TestSteam(ConfTest):
 
         game_2: str = self.my_game_page.get_info_game1()
         assert game_2 == game_1  # Проверка равенста параметром(базовая цена, цена со скидкой, размер скидки) \
-                                                        # игры с 4 и 5 шага тест кейса
+        # игры с 4 и 5 шага тест кейса
         self.my_game_page.click_install()
 
         self.download.click_install_again()
         self.download.check_file_and_close_page()
 
 
+if __name__ == '__main__':
+    unittest.main(testRunner=HtmlTestRunner.HTMLTestRunner(
+        output=r'C:\Users\Pasha\PycharmProjects\test_python_task_3.1\Project\reports'))

@@ -1,3 +1,4 @@
+import os
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.firefox import GeckoDriverManager
@@ -11,7 +12,8 @@ class BrowserFactory:
     @staticmethod
     def create_browser():
 
-        browser_name = Parse().get_json_browser_name()
+        #browser_name = Parse().get_json_browser_name()
+        browser_name = os.getenv("browser_name")
         browser_names_google = ParseNames().parsed_browser_names_google()
         browser_names_mozilla = ParseNames().parsed_browser_names_mozilla()
         language = Parse().get_json_language()

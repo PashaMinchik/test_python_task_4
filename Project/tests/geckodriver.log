@@ -4170,3 +4170,364 @@ JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/dynamics
 [Child 18632, Chrome_ChildThread[GPU 17616, Ch
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1568041290905	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\P19D6~1.MIN\\AppData\\Local\\Temp\\rust_mozprofile.878w4SeBdNQ9"
+1568041291209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568041291210	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568041291210	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568041291210	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568041292415	Marionette	INFO	Listening on port 64576
+1568041292511	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/dynamicstore.js?v=HUiEvSZaTC5H&l=russian, line 2275: unreachable code after return statement
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/dynamicstore.js?v=HUiEvSZaTC5H&l=russian, line 2275: unreachable code after return statement
+1568041295314	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/dynamicstore.js?v=HUiEvSZaTC5H&l=russian, line 2275: unreachable code after return statement
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/contenthub.js?v=Hd-fkcf1TWc5&l=russian, line 191: unreachable code after return statement
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/contenthub.js?v=Hd-fkcf1TWc5&l=russian, line 191: unreachable code after return statement
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/dynamicstore.js?v=HUiEvSZaTC5H&l=russian, line 2275: unreachable code after return statement
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/dynamicstore.js?v=HUiEvSZaTC5H&l=russian, line 2275: unreachable code after return statement
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/dynamicstore.js?v=HUiEvSZaTC5H&l=russian, line 2275: unreachable code after return statement
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/dynamicstore.js?v=HUiEvSZaTC5H&l=russian, line 2275: unreachable code after return statement
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/dynamicstore.js?v=HUiEvSZaTC5H&l=russian, line 2275: unreachable code after return statement
+[GFX1-]: GFX: D3D11 detected a device reset in Present
+[GFX1-]: D3D11 swap chain failed to present: 0x887a0005
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(888,794)texture11: false Code: 0x887a0005
+[GFX1-]: DoesD3D11TextureSharingWork_ColorMismatch
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(888,794)texture11: false Code: 0x887a0005
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(888,794)texture11: false Code: 0x887a0005
+[GFX1-]: DoesRecreatingCreateCPUTextureFailed
+[GFX1]: Failed to create ID3D11Buffer.
+[GFX1-]: [D3D11] CreateInputLayout failed: 0x887a0005
+[GFX1-]: [D3D11] failed to get compositor device attachments
+[GFX1-]: [D3D11] Failed to init compositor with reason: FEATURE_FAILURE_D3D11_INPUT_LAYOUT
+[GFX1-]: Compositors might be mixed (3,1)
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1568041305994	Marionette	INFO	Stopped listening on port 64576
+[Child 4776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4776, Chr[Child 6880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6880, Chrome_ChildThread[Child 24116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 24116, Chro[GPU 23
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+10
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1568041576131	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\P19D6~1.MIN\\AppData\\Local\\Temp\\rust_mozprofile.0nOOtiqSYYFQ"
+1568041576430	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568041576431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568041576431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568041576431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568041577636	Marionette	INFO	Listening on port 64803
+1568041577739	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/dynamicstore.js?v=HUiEvSZaTC5H&l=russian, line 2275: unreachable code after return statement
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/dynamicstore.js?v=HUiEvSZaTC5H&l=russian, line 2275: unreachable code after return statement
+1568041580313	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/dynamicstore.js?v=HUiEvSZaTC5H&l=russian, line 2275: unreachable code after return statement
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/contenthub.js?v=Hd-fkcf1TWc5&l=russian, line 191: unreachable code after return statement
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/contenthub.js?v=Hd-fkcf1TWc5&l=russian, line 191: unreachable code after return statement
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/dynamicstore.js?v=HUiEvSZaTC5H&l=russian, line 2275: unreachable code after return statement
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/dynamicstore.js?v=HUiEvSZaTC5H&l=russian, line 2275: unreachable code after return statement
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/dynamicstore.js?v=HUiEvSZaTC5H&l=russian, line 2275: unreachable code after return statement
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/dynamicstore.js?v=HUiEvSZaTC5H&l=russian, line 2275: unreachable code after return statement
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/dynamicstore.js?v=HUiEvSZaTC5H&l=russian, line 2275: unreachable code after return statement
+[GFX1]: [D2D1.1] 3CreateBitmap failure Size(260,48) Code: 0x8007000e format 0
+[GFX1]: [D2D1.1] 3CreateBitmap failure Size(260,48) Code: 0x8007000e format 0
+[GFX1]: [D2D1.1] 3CreateBitmap failure Size(260,48) Code: 0x8007000e format 0
+[GFX1]: [D2D1.1] 3CreateBitmap failure Size(260,48) Code: 0x8007000e format 0
+[GFX1-]: GFX: D3D11 detected a device reset in Present
+[GFX1-]: D3D11 swap chain failed to present: 0x887a0005
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(888,794)texture11: false Code: 0x887a0005
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(888,794)texture11: false Code: 0x887a0005
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(888,794)texture11: false Code: 0x887a0005
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 1
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1568041592493	Marionette	INFO	Stopped listening on port 64803
+[Child 11400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11400, Ch[Parent 13384, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 28636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 28636, Chrom[GPU 13720, Chrom
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+e
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1568041638977	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\P19D6~1.MIN\\AppData\\Local\\Temp\\rust_mozprofile.HWUGq7vVRdqU"
+1568041639279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568041639279	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568041639280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568041639280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568041640342	Marionette	INFO	Listening on port 64890
+1568041640583	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/dynamicstore.js?v=HUiEvSZaTC5H&l=russian, line 2275: unreachable code after return statement
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/dynamicstore.js?v=HUiEvSZaTC5H&l=russian, line 2275: unreachable code after return statement
+1568041645666	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/dynamicstore.js?v=HUiEvSZaTC5H&l=russian, line 2275: unreachable code after return statement
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/contenthub.js?v=Hd-fkcf1TWc5&l=russian, line 191: unreachable code after return statement
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/contenthub.js?v=Hd-fkcf1TWc5&l=russian, line 191: unreachable code after return statement
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/dynamicstore.js?v=HUiEvSZaTC5H&l=russian, line 2275: unreachable code after return statement
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/dynamicstore.js?v=HUiEvSZaTC5H&l=russian, line 2275: unreachable code after return statement
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/dynamicstore.js?v=HUiEvSZaTC5H&l=russian, line 2275: unreachable code after return statement
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/dynamicstore.js?v=HUiEvSZaTC5H&l=russian, line 2275: unreachable code after return statement
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/dynamicstore.js?v=HUiEvSZaTC5H&l=russian, line 2275: unreachable code after return statement
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1903,1660)texture11: false Code: 0x8007000e
+[GFX1]: Failed to create software bitmap: Size(1903,1660) Code: 0x8007000e
+[GFX1]: Failed to create software bitmap: Size(1903,1660) Code: 0x8007000e
+[GFX1-]: GFX: D3D11 detected a device reset in Present
+[GFX1-]: D3D11 swap chain failed to present: 0x887a0005
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567814407663%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+[GFX1-]: GFX: D3D11 detected a device reset in Present
+[GFX1-]: D3D11 swap chain failed to present: 0x887a0005
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[GFX1-]: GFX: D3D11 detected a device reset in Present
+[GFX1-]: D3D11 swap chain failed to present: 0x887a0005
+1568041732293	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\P19D6~1.MIN\\AppData\\Local\\Temp\\rust_mozprofile.8F0qaeoNAmv3"
+1568041732611	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568041732611	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568041732611	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568041732611	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568041733674	Marionette	INFO	Listening on port 65022
+1568041733904	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/dynamicstore.js?v=HUiEvSZaTC5H&l=russian, line 2275: unreachable code after return statement
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/dynamicstore.js?v=HUiEvSZaTC5H&l=russian, line 2275: unreachable code after return statement
+1568041736543	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/dynamicstore.js?v=HUiEvSZaTC5H&l=russian, line 2275: unreachable code after return statement
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/contenthub.js?v=Hd-fkcf1TWc5&l=russian, line 191: unreachable code after return statement
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/contenthub.js?v=Hd-fkcf1TWc5&l=russian, line 191: unreachable code after return statement
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/dynamicstore.js?v=HUiEvSZaTC5H&l=russian, line 2275: unreachable code after return statement
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/dynamicstore.js?v=HUiEvSZaTC5H&l=russian, line 2275: unreachable code after return statement
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/dynamicstore.js?v=HUiEvSZaTC5H&l=russian, line 2275: unreachable code after return statement
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/dynamicstore.js?v=HUiEvSZaTC5H&l=russian, line 2275: unreachable code after return statement
+JavaScript warning: https://steamstore-a.akamaihd.net/public/javascript/dynamicstore.js?v=HUiEvSZaTC5H&l=russian, line 2275: unreachable code after return statement
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1903,1660)texture11: false Code: 0x8007000e
+[GFX1]: Failed to create software bitmap: Size(1903,1660) Code: 0x8007000e
+[GFX1]: Failed to create software bitmap: Size(1903,1660) Code: 0x8007000e
+[GFX1]: Failed to create software bitmap: Size(18,18) Code: 0x8007000e
+[GFX1]: Failed to create software bitmap: Size(16,16) Code: 0x8007000e
+[GFX1]: Failed to create software bitmap: Size(16,16) Code: 0x8007000e
+[GFX1]: Failed to create software bitmap: Size(16,16) Code: 0x8007000e
+[GFX1]: Failed to create software bitmap: Size(16,16) Code: 0x8007000e
+[GFX1-]: GFX: D3D11 detected a device reset in Present
+[GFX1-]: D3D11 swap chain failed to present: 0x887a0005
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1568041746526	Marionette	INFO	Stopped listening on port 65022
+[Parent 13356, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20108, Chro[GPU 27892, Ch
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

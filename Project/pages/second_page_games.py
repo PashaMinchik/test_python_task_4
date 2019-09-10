@@ -22,7 +22,7 @@ class GamesPage:
             self.all_trails.append(link.get_attribute("innerText"))
 
         print("Список игр со скидками: ", self.all_trails)
-        self.max_discount = max(self.all_trails)
+        self.max_discount = min(self.all_trails)
         print("Максимальная скидка: " + self.max_discount)
 
     def get_info_game(self) -> str:
